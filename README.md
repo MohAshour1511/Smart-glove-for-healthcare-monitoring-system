@@ -1,0 +1,2 @@
+# Smart glove for healthcare monitoring system
+ A smart glove for healthcare monitoring system is designed to empower patients and enhance healthcare by measuring vital signs like heartbeat, blood pressure, and oxygen saturation. It features an intuitive emergency signaling feature, allowing patients to perform specific hand movements using imu and flex sesnsors, instantly transmitting distress signals to a large screen and activating an alert. The glove combines technology and healthcare, providing peace of mind and control.
